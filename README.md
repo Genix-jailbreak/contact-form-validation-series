@@ -2,6 +2,8 @@
 
 This repository contains the source code for the "Build a Validated Contact Form" series on YouTube. This series walks through the creation of a fully functional and responsive contact form using HTML, CSS, and JavaScript.
 
+[YouTube Series Playlist](https://youtube.com/playlist?list=PL3EZbNoASMknjvxD448J_hbe5Gxxkhjkr&si=QKLPuaW4NCjwDzTZ)
+
 ## YouTube Series Overview
 
 In this series, you will learn how to:
