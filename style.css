@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    background-color: lightgreen;
+    height: 100vh;
+}
+
+#contact-form-header {
+    color: black;
+    opacity: 0.8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Styles for all the fieldsets */
+.fieldset {
+    border: 0;
+}
+
+/* Legend Styles */
+#name-legend {
+    display: none;
+}
+
+/* Input and Radio group styles */
+#name-input-group,
+#query-radio-group {
+    display: flex;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.radio-group {
+    border: 1px solid black;
+}
+
+#submit-button {
+    background: green;
+    color: white;
+}
