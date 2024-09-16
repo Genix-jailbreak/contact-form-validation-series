@@ -12,12 +12,15 @@ In this series, you will learn how to:
    - Setting up the basic structure of the contact form using HTML.
 
 2. **Part 2: CSS Styling**  
-   - Applying styles to the form to make it visually appealing and responsive.
+   - Applying basic styles to the form to make it visually appealing and responsive.
+  
+3. **Part 3: Advanced CSS Styling**  
+   - Applying advanced CSS layouts to the form to make it visually appealing and responsive.
 
-<!-- 3. **Part 3: JavaScript DOM Manipulation**  
+4. **Part 4: JavaScript DOM Manipulation**  
    - Adding interactivity and validation using JavaScript.
 
-4. **Part 4: Responsive Design**  
+<!-- 4. **Part 4: Responsive Design**  
    - Ensuring the contact form works well on different screen sizes. -->
 
 ## Getting Started
