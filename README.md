@@ -20,8 +20,8 @@ In this series, you will learn how to:
 4. **Part 4: JavaScript DOM Manipulation**  
    - Adding interactivity and validation using JavaScript.
 
-<!-- 4. **Part 4: Responsive Design**  
-   - Ensuring the contact form works well on different screen sizes. -->
+5. **Part 5: JavaScript conclusion and Responsive Design**  
+   - Ensuring the contact form works well on different screen sizes.
 
 ## Getting Started
 
